@@ -11,7 +11,7 @@
   - Flask
   - Django
 - 🌱 I’m currently learning:
-  - Typescript
+  - Typescript and Java
 - 💞️ I’m looking to collaborate on cool projects.
 - 📫 You can reach me at sebastian.h.alcantara@gmail.com.
 
